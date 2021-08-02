@@ -28,4 +28,4 @@ jobs:
         cache: 'npm'
 
     - run: npm install
-    - run: npm cypress:run:dash 
+    - run: npm run cypress:run:dash 
