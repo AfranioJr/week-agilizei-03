@@ -11,4 +11,4 @@ Semana Agilizei 3.0 evento criado pela [Agilizei](http://www.agilizei.com) e  Im
 |   |   |
 |---|---|
 | ![](/cypress/fixtures/img/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png) |   |
-Esse projeot foi desenvolvido utilizadno Node.js e Cypress, para utilização desse projeto local é necessário alguns passos:
+Esse projeto foi desenvolvido utilizadno Node.js e Cypress, para utilização desse projeto local é necessário alguns passos:
